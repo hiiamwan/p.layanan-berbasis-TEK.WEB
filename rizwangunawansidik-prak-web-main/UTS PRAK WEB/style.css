@@ -1,0 +1,18 @@
+body {
+  background-color: darkslategray;
+  font-family: Arial, sans-serif;
+}
+
+.item {
+  border: 1px solid #000000;
+  padding: 10px;
+  margin: 10px;
+}
+
+button {
+  background-color: orangered;
+  color: rgb(255, 255, 255);
+  border: none;
+  padding: 5px 10px;
+  cursor: pointer;
+}
